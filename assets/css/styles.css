@@ -82,6 +82,11 @@
 .fab {
     color: #000000;
 }
+
+.phone {
+    font-size: small;
+}
+
 /* footer styling */
 #footer {
     background-color: #808080;

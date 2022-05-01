@@ -1,7 +1,12 @@
 /* display background color black on navbar scroll */
 .navbarScroll.navbarDark {
-    background-color: white;
+    background-color: black;
 }
+
+.navbar-brand {
+    color: rgb(189, 80, 47);
+}
+
 
 /* hero background image */
 .bgimage {
@@ -28,14 +33,14 @@
     top: 50%;
     left: 50%;
     transform: translate(-50%, -50%);
-    color: white;
+    color: rgb(221, 246, 141);
 }
 
 /* spacing on all sections */
-/* #about, #services, #portfolio, #contact {
+#about, #services, #my-work, #contact {
     margin-top: 4rem;
     padding-top: 4rem;
-} */
+} 
 
 #contact {
     padding-bottom: 4rem;
@@ -44,4 +49,41 @@
 /* about section image css */
 .imageAboutPage {
     width: 70%;
+}
+
+/* services section css */
+.servicesText.card {
+    height: 280px;
+    cursor: pointer;
+  }
+.servicesIcon {
+    font-size: 36px;
+    text-align: center;
+    width: 100%;
+}
+.card-title {
+    text-align: center;
+}
+.card:hover .servicesIcon {
+    color: #008000;
+}
+.servicesText:hover {
+    border: 1px solid #008000;
+}
+
+/* social media icons styling */
+.social-icons {
+    font-size: 36px;
+    cursor: pointer;
+}
+.fa-linkedin:hover {
+    color: #008000;
+}
+.fab {
+    color: #000000;
+}
+/* footer styling */
+#footer {
+    background-color: #808080;
+    text-align: center;
 }

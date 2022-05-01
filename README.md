@@ -2,7 +2,7 @@
 
 ## Description
 
-This is the first draft of my web developer portfolio. Although it is bland, I will update it throughout the course. I visited a website to aid with building my portfolio, which is in the credits. I used technologies that I am unfamiliar with, such as Bootstrap 5. However, I hope to fully understand it later in the course.  
+This is the first draft of my web developer portfolio. Although it is bland, I will update it throughout the course. I visited a website to aid with building my portfolio, which is in the credits. 
 
 ## Installation
 

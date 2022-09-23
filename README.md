@@ -1,4 +1,6 @@
 # My Portfolio
+still working on integrating react into my portfolio. added last project from columbia bootcamp
+
 
 ## Description
 
